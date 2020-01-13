@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('assets/box.jpeg'),
             ),
             Text(
-              'mohamed+0',
+              'mohamed',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 40.0,
