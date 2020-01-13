@@ -38,6 +38,13 @@ class MyApp extends StatelessWidget {
                 color: Colors.white,
               ),
             ),
+            SizedBox(
+              height: 20.0,
+              width: 300.0,
+              child: Divider(
+                color: Colors.white,
+              ),
+            ),
             Card(
               color: Colors.white,
               margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
@@ -59,7 +66,7 @@ class MyApp extends StatelessWidget {
                         fontSize: 20.0,
                         fontWeight: FontWeight.bold,
                       ),
-                    )
+                    ),
                   ],
                 ),
               ),
