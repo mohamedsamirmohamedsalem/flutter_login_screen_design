@@ -46,3 +46,7 @@ flutter:
   #  - images/a_dot_ham.jpeg
 
 
+  fonts:
+  - family: Pacifico
+    fonts:
+    - asset: fonts/Pacifico.ttf
